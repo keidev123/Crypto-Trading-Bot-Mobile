@@ -23,7 +23,7 @@ ZapBot is a futuristic crypto trading assistant focused on automating and simpli
 ## 📦 Installation
 
 ```bash
-cd zapbot
+
 npm install
 npx expo start
 ```
