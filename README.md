@@ -1,6 +1,10 @@
-# ⚡ ZapBot
+# ⚡ Mobile Crypto Tranding Bot
 
-ZapBot is a futuristic crypto trading assistant focused on automating and simplifying Solana-based trades. Designed with a sleek UI and real-time blockchain interaction, ZapBot empowers users to connect their Phantom wallet and execute trades efficiently from mobile.
+This is a futuristic crypto trading assistant focused on automating and simplifying Solana-based trades. Designed with a sleek UI and real-time blockchain interaction, ZapBot empowers users to connect their Phantom wallet and execute trades efficiently from mobile.
+
+## 📩 Contact
+
+If you wanna build mobile version crypto trading bot, contact here: [Telegram](https://t.me/shiny0103)
 
 ## 🔥 Features
 
