@@ -4,7 +4,7 @@ This is a futuristic crypto trading assistant focused on automating and simplify
 
 ## 📩 Contact
 
-If you wanna build mobile version crypto trading bot, contact here: [Telegram](https://t.me/shiny0103)
+If you wanna build mobile version crypto trading bot, contact here: [Telegram](https://t.me/kei4650)
 
 ## 🔥 Features
 
